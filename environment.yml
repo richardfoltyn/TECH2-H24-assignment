@@ -1,0 +1,6 @@
+name: TECH2-assignment
+channels:
+  - defaults
+dependencies:
+  - python=3.12
+  - numpy=1.26
