@@ -4,6 +4,7 @@ TECH2 mandatory assignment - Part A
 Write the implementation of part A of the exercise below.
 """
 
+#Part 1: standard deviation of x using loops.
 def std_loops(x):
     """
     Compute standard deviation of x using loops.
@@ -17,6 +18,13 @@ def std_loops(x):
     sd : float
         Standard deviation of the list of numbers.
     """
+
+num_lst = [1,2,3,4,5]
+
+for i in std_loops:
+    print('your number is')
+
+
 
 def std_builtin(x):
     """
@@ -32,4 +40,11 @@ def std_builtin(x):
     sd : float
         Standard deviation of the list of numbers.
     """
+
+
     
+
+
+# SUM
+
+#LEN
